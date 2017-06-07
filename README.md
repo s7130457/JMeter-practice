@@ -1,6 +1,8 @@
 # JMeter-practice  
-STV JMeter練習  
-Testing Tool：   
+STV JMeter練習  
+測試網站：
+http://192.168.99.100:8081/Lab4/ (192.168.99.100是docker預設的，http://localhost/Lab4)
+Testing Tool：   
 JMeter：   
 http://jmeter.apache.org/download_jmeter.cgi    
 選擇Apache JMeter 3.2 -> Binaries -> apache-jmeter-3.2.zip
